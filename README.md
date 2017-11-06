@@ -1,3 +1,2 @@
 # oop-drone-sim
-PooP
-Sanatate
+OOP Project - should be a drone simulator
